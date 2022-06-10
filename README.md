@@ -26,8 +26,9 @@ git clone <https address>
 
 
 - You can see folder with your repo name
-<p align="center">
-<img height="450" center width="450" alt="Screenshot 2022-06-10 at 3 12 26 PM" src="https://i.imgur.com/Yr490J7.png">
+<p >
+<img width="323" alt="Screenshot 2022-06-09 at 12 14 42 PM" src="https://user-images.githubusercontent.com/63995316/173042002-36f552df-06a5-4758-bd19-cc001bf251a1.png">
+
 
 </p>
 
