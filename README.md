@@ -63,8 +63,9 @@ cd Cherry_fw_13_0001/
     
     git push origin master
     ```
-    
-![](https://i.imgur.com/eueUSSl.png)
+    <img height="200"  alt="Screenshot 2022-06-10 at 3 12 26 PM" src="https://i.imgur.com/eueUSSl.png">
+
+
 
 
 
