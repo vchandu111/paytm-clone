@@ -2,7 +2,7 @@
 
 ## What is `Masai-course` repo?
 
-- Masai will provide you repo with maintain access, so that you will be able to push your daily assignments.
+- Masai will provide you repo with folder template along with maintain access, so that you will be able to push your daily assignments.
 
 ## Steps to clone your repo
 
