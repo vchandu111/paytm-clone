@@ -18,6 +18,10 @@
 
 - Open any drive or folder with VS code and clone this repo
 
+```
+git clone <https address>
+```
+
 ![](https://i.imgur.com/AexaZv7.png)
 
 
